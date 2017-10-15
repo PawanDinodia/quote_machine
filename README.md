@@ -1,4 +1,4 @@
-# quote_machine
+# Quote_machine
 Genrate random quotes
 
 Any kind of feedback is welcomed!
