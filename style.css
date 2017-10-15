@@ -1,0 +1,71 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+background:url("http://wallpapercave.com/wp/0xYZy6Q.jpg");
+}
+/*style for div1*/
+.quote-container.div1{
+  height:320px;
+  background:linear-gradient(45deg,#DEB887,#008B8B,#483D8B);
+  border-radius:15px;
+  margin:40px 14px;
+  box-shadow:2px 2px 4px 6px #0005;
+}
+.quote-section{
+  padding:20px;
+  color:white;
+  font-weight:900;
+  font-size:35px;
+  font-family: 'Mogra', cursive;
+}
+.author-section{
+  font-weight:900;
+  width:100%;
+  text-align:right;
+  padding:10px 50px;
+  color:white;
+  font-size:20px;
+}
+.buttons{
+  margin:10px 10px;
+  width:100%;
+}
+.twitter{
+ clear:both;
+ color:#fff;
+}
+#twitter:hover{
+  color:#1da1f2;
+}
+/*style for div1 Ends*/
+/*style for div2*/
+.quote-container.div2{
+  height:360px;
+  overflow:hidden;
+  background:linear-gradient(-45deg,#556B2F,#9932CC,#008B8B);
+  border-radius:15px;
+  margin:40px 14px;
+  box-shadow:2px 2px 4px 6px #0005;
+}
+
+/*style for div2 End*/
+/*style for div3*/
+.quote-container.div3{
+  height:360px;
+  background:linear-gradient(45deg,#DEB887,#A52A2A,#FF7F50);
+  border-radius:15px;
+  margin:40px 14px;
+  box-shadow:2px 2px 4px 6px #0005;
+}
+/*style for div2 End*/
+/*style for div4*/
+.quote-container.div4{
+  height:360px;
+  background:linear-gradient(45deg,#D2691E,#DEB887,#DAA520);
+  border-radius:15px;
+  margin:40px 14px;
+  box-shadow:2px 2px 4px 6px #0005;
+}
+/*style for div4 End*/
